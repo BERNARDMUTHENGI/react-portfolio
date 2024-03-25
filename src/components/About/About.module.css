@@ -1,8 +1,14 @@
 @import "../../vars.css";
 
+p {
+  color: black;
+}
+h3{
+  color: orangered;
+}
 .container {
   position: relative;
-  background-color: rgba(12, 12, 12, 0.6);
+  background: linear-gradient(to bottom right, #add8e6, #ffffff);
   border-radius: 15px;
   padding: 73px;
   margin-top: 129px;
@@ -12,11 +18,13 @@
 }
 
 .title {
-  color: var(--color-text);
+  color: black;
   font-size: 35px;
   font-weight: 700;
   letter-spacing: 1.75px;
   text-transform: uppercase;
+  padding: 2px 3px;
+  margin-top: 4px;
 }
 
 .content {
@@ -89,4 +97,5 @@
     padding-left: 0;
     padding-right: 0;
   }
+  
 }

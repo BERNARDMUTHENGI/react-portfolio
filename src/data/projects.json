@@ -1,25 +1,25 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "title": "car-Hiring site",
+    "imageSrc": "projects/carsite.jpeg",
+    "description": "This is a site where clients can hie and exchange cars for pleasure and business",
     "skills": ["React", "Express", "Node"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
+    "title": "Beauty-Products App",
+    "imageSrc": "projects/saloon.jpeg",
+    "description": "In this site people can buy and sell beauty products as well as hire beauty specialists.",
+    "skills": ["React", "Express", "Node", "Sass", "MySql"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "title": "Fully-Functional Ecommerce",
+    "imageSrc": "projects/ecommerce.jpeg",
+    "description": "In this app, the admin posts their goods of all types.Customers can order the products and get them at their residents.",
+    "skills": ["React", "Express", "Node", "MongoDb"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   }

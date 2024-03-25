@@ -48,12 +48,14 @@
 
 .skillImageContainer img {
   width: 75px;
+  border-radius: 50%;
 }
 
 .skill p {
   font-size: 25px;
   font-family: var(--font-roboto);
   font-weight: 500;
+  color: antiquewhite;
 }
 
 .history {
@@ -90,6 +92,7 @@
 .historyItemDetails p {
   font-size: 20px;
   font-weight: 300;
+  color: yellowgreen;
 }
 
 .historyItemDetails ul {
